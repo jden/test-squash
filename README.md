@@ -1,4 +1,5 @@
 # test-squash
-Hi there
+
+Hi there!
 
 Here's some more stuff at the end of the file~~~
